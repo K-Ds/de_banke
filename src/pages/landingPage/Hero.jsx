@@ -17,7 +17,7 @@ const Hero = () => {
                     <img src={money_stress_illustration} alt='' className='w-full h-auto' />
                 </div>
             </div>
-            <div className='py-8 lg:mx-40 md:mx-16 flex justify-center rounded-lg bg-[url("src/assets/subtle-prism.svg")]'>
+            <div className='py-8 lg:mx-40 md:mx-16 flex justify-center rounded-lg bg-hero_pattern'>
                 <div className='flex justify-center divide-tlight divide-x-2 '>
                     {statistics.map(item => (
                         <div className='flex flex-col items-center px-24'>
