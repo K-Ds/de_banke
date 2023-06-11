@@ -12,7 +12,7 @@ export default {
         tlight: '#929EAE',
       },
       backgroundImage: {
-        hero_pattern: "url('./src/assets/subtle-prism.svg')",
+        hero_pattern: "url('../src/assets/subtle-prism.svg')",
       },
     },
   },
